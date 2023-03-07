@@ -24,7 +24,7 @@ Describir las herramientas de desarrollo utilizadas para el desarrollo del proye
 
 |No.|Función|Estado|Fecha programada|Fecha realizada|Responsable|Descripción|
 |--|--|--|--|--|--|--|
-|1|Archivo productos.csv|ToDo|NA|NA|Brandon|NA|
+|1|Archivo productos.csv|ToDo|NA|NA|Gustavo|NA|
 |2|Método listarProductos()|ToDo|NA|NA|Brallan|NA|
 |3|Método insertarProductos()|ToDo|NA|NA|Brandon|NA|
 |4|Método buscarProductos()|ToDo|NA|NA|Armando|NA|
