@@ -18,6 +18,7 @@ class Productos:  # Clase Productos
             return False # Regresa False si ocurrio un error en el metodo
 
     def insertarProducto(self, sku: str, nombre: str, unidad: str) -> bool: # Metodo para insertar un producto
+        print("Insertar Producto")
         # TODO programar el método insertarProducto()
         return False # Regresa False si ocurrio un error en el metodo
 
@@ -35,3 +36,4 @@ class Productos:  # Clase Productos
 
 productos = Productos() # Crea un objeto de la clase Productos
 productos.listarProductos() # Llama al metodo listarProductos()
+productos.insertarProducto()
