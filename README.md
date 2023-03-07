@@ -28,7 +28,7 @@ Describir las herramientas de desarrollo utilizadas para el desarrollo del proye
 |2|Método listarProductos()|ToDo|NA|NA|Brallan|NA|
 |3|Método insertarProductos()|ToDo|NA|NA|Brandon|NA|
 |4|Método buscarProductos()|ToDo|NA|NA|Armando|NA|
-|5|Método borrarProductos()|ToDo|Brandon|NA|Gustavo|NA|
+|5|Método borrarProductos()|ToDo|NA|NA|Brandon|NA|
 |6|Método actualizarProductos()|ToDo|NA|NA|Brallan|NA|
 |7|Llamar al método listarProductos() en menú|ToDo|NA|NA|Brandon|NA|
 |8|Llamar al método insertarProductos() en menú|ToDo|NA|NA|Brallan|NA|
