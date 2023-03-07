@@ -62,13 +62,13 @@ Describir las herramientas de desarrollo utilizadas para el desarrollo del proye
 |36|Llamar al método valorMaximoProducto()|ToDo|NA|NA|Brallan|NA|
 |37|Completar el método menu() con los submenus necesarios|ToDo|NA|NA|Gustavo|NA|
 |38|FUNCIÓN INNOVADORA PROPUESTA POR EL EQUIPO|ToDo|NA|NA|Grupal|NA|
-|39|Capturar la Introducción|ToDo|NA|NA|NA|NA|
-|40|Capturar los Objetivos|ToDo|NA|NA|NA|NA|
-|41|Capturar los Integrantes|ToDo|NA|NA|NA|NA|
-|42|Capturar las Herramientas de desarrollo|Gustavo|NA|NA|NA|NA|
-|43|Capturar las Conclusiones|ToDo|NA|NA|NA|NA|
-|44|Capturar la Bibliografía|ToDo|Gustavo|NA|NA|NA|
-|45|Tabla de problemas y soluciones|ToDo|NA|NA|NA|NA|
+|39|Capturar la Introducción|ToDo|NA|NA|Gustavo|NA|
+|40|Capturar los Objetivos|ToDo|NA|NA|Armando|NA|
+|41|Capturar los Integrantes|ToDo|NA|NA|Brandon|NA|
+|42|Capturar las Herramientas de desarrollo|NA|NA|NA|Gustavo|NA|
+|43|Capturar las Conclusiones|ToDo|NA|NA|Brallan|NA|
+|44|Capturar la Bibliografía|ToDo|Gustavo|NA|Brandon|NA|
+|45|Tabla de problemas y soluciones|ToDo|NA|NA|Armando|NA|
 
 ## 6. Conclusiones:
 
