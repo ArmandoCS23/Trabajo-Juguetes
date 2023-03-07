@@ -47,7 +47,7 @@ Describir las herramientas de desarrollo utilizadas para el desarrollo del proye
 |21|Llamar al método borrarTiendas() en menú|ToDo|NA|NA|Brandon|NA|
 |22|Llamar al método actualizarTiendas() en menú|ToDo|NA|NA|Armando|NA|
 |23|Archivo despensa.csv|ToDo|NA|NA|Gustavo|NA|
-|24|Método listarCompras()|ToDo|NA|NA|Brandon|NA|
+|24|Método listarCompras()|ToDo|NA|NA|Armando|NA|
 |25|Método insertarCompra()|ToDo|NA|NA|Brallan|NA|
 |26|Método buscarComprasFecha()|ToDo|NA|NA|Brallan|NA|
 |27|Método borrarCompra()|ToDo|NA|NA|Gustavo|NA|
