@@ -49,17 +49,17 @@ Describir las herramientas de desarrollo utilizadas para el desarrollo del proye
 |23|Archivo despensa.csv|ToDo|NA|NA|Gustavo|NA|
 |24|Método listarCompras()|ToDo|NA|NA|Brandon|NA|
 |25|Método insertarCompra()|ToDo|NA|NA|Brallan|NA|
-|26|Método buscarComprasFecha()|ToDo|NA|NA|Armando|NA|
+|26|Método buscarComprasFecha()|ToDo|NA|NA|Brallan|NA|
 |27|Método borrarCompra()|ToDo|NA|NA|Gustavo|NA|
 |28|Método actualizarCompra()|ToDo|NA|NA|Brandon|NA|
 |29|Método valorMinimoProducto()|ToDo|NA|NA|Armando|NA|
 |30|Método valorMaximoProducto()|ToDo|NA|NA|Brallan|NA|
 |31|Llamar al método listarCompras()|ToDo|NA|NA|Gustavo|NA|
 |32|Llamar al método insertarCompra()|ToDo|NA|NA|Armando|NA|
-|33|Llamar al método buscarComprasFecha()|ToDo|NA|NA|Brandon|NA|
-|34|Llamar al método borrarCompra()|ToDo|NA|NA|Brallan|NA|
+|33|Llamar al método buscarComprasFecha()|ToDo|NA|NA|Brallan|NA|
+|34|Llamar al método borrarCompra()|ToDo|NA|NA|Brandon|NA|
 |35|Llamar al método valorMinimoProducto()|ToDo|NA|NA|Brandon|NA|
-|36|Llamar al método valorMaximoProducto()|ToDo|NA|NA|Armando|NA|
+|36|Llamar al método valorMaximoProducto()|ToDo|NA|NA|Brallan|NA|
 |37|Completar el método menu() con los submenus necesarios|ToDo|NA|NA|Gustavo|NA|
 |38|FUNCIÓN INNOVADORA PROPUESTA POR EL EQUIPO|ToDo|NA|NA|Grupal|NA|
 |39|Capturar la Introducción|ToDo|NA|NA|NA|NA|
