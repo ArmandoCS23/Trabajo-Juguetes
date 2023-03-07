@@ -65,9 +65,9 @@ Describir las herramientas de desarrollo utilizadas para el desarrollo del proye
 |39|Capturar la Introducción|ToDo|NA|NA|NA|NA|
 |40|Capturar los Objetivos|ToDo|NA|NA|NA|NA|
 |41|Capturar los Integrantes|ToDo|NA|NA|NA|NA|
-|42|Capturar las Herramientas de desarrollo|ToDo|NA|NA|NA|NA|
+|42|Capturar las Herramientas de desarrollo|Gustavo|NA|NA|NA|NA|
 |43|Capturar las Conclusiones|ToDo|NA|NA|NA|NA|
-|44|Capturar la Bibliografía|ToDo|NA|NA|NA|NA|
+|44|Capturar la Bibliografía|ToDo|Gustavo|NA|NA|NA|
 |45|Tabla de problemas y soluciones|ToDo|NA|NA|NA|NA|
 
 ## 6. Conclusiones:
